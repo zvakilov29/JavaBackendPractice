@@ -1,7 +1,7 @@
 package lesson1;
 
 public class Task3 {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         boolean isLoggedIn = true;
         boolean hasSubscription = false;
 

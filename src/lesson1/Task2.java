@@ -1,7 +1,7 @@
 package lesson1;
 
 public class Task2 {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         float productPrice = 199.99F;
         int discount = 20;
         float finalPrice = productPrice - (productPrice * discount / 100);

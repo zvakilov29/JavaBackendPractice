@@ -1,7 +1,7 @@
 package lesson1;
 
 public class Task1 {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         int postCount = 5;
         int likeCount = 140;
         String postTitle = "myNewPost";
